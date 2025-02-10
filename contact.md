@@ -5,6 +5,6 @@ title: Contact
 
 ## Let's Connect!  
 
-📧 [nolan@example.com](mailto:nolan@example.com)  
+📧 [nolanhotrum@gmail.com](mailto:nolanhotrum@gmail.com)  
 💻 [GitHub](https://github.com/nolanhotrum)  
-🔗 [LinkedIn](#) *(add your link later)*  
+🔗 [LinkedIn](linkedin.com/in/nolan-h-21430a230/)  
