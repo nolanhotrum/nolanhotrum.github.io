@@ -7,4 +7,4 @@ title: Contact
 
 📧 [nolanhotrum@gmail.com](mailto:nolanhotrum@gmail.com)  
 💻 [GitHub](https://github.com/nolanhotrum)  
-🔗 [LinkedIn](linkedin.com/in/nolan-h-21430a230/)  
+🔗 [LinkedIn](https://linkedin.com/in/nolan-h-21430a230)  
