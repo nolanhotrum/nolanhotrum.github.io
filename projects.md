@@ -5,10 +5,10 @@ title: Projects
 
 ## Featured Work  
 
-### [Laravel Project](https://github.com/nolanhotrum/your-laravel-repo)  
-- E-commerce platform with payment integration.  
-- **Tech**: Laravel, MySQL, Stripe API.  
+### [Investing for the Soul](https://investingforthesoul.com)  
+- This website was rebuilt, updated and trasferred over from an outdated CMS to a modern WordPress website.  
+- **Tech**: PHP striping, Wordpress  
 
-### [React Task Manager](https://github.com/nolanhotrum/react-tasks)  
-- Real-time task tracking app with Firebase.  
-- **Tech**: React, Firebase, Tailwind CSS.  
+### [Movie Checklist App](https://github.com/nolanhotrum/MoviesWatchedApp)  
+- This application allows users to create a list of all the films they have watched, organized and filtered in a few ways.
+- **Tech**: C#
