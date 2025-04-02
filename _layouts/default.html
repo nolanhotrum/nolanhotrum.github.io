@@ -12,6 +12,8 @@
   </nav>
   
   <main class="container">
+    {% if page.title == "Home" %}
+    <!-- Only show these on the homepage (index.md) -->
     <section class="intro">
       <h1>Welcome to My Portfolio</h1>
       <p>Check out my projects below!</p>
@@ -36,6 +38,12 @@
         <p><strong>Tech:</strong> C#</p>
       </div>
     </section>
+    {% else %}
+    <!-- For about.md and contact.md, show their content -->
+    <section class="page-content">
+      {{ content }}
+    </section>
+    {% endif %}
   </main>
   
   <footer>
