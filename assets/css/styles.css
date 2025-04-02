@@ -85,13 +85,14 @@ section {
   text-decoration: underline;
 }
 
-.contact a {
+/* Contact page links */
+body.page-contact a {
   color: #03dac6;
   text-decoration: none;
   font-weight: bold;
 }
 
-.contact a:hover {
+body.page-contact a:hover {
   text-decoration: underline;
 }
 
