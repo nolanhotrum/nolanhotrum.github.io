@@ -85,17 +85,6 @@ section {
   text-decoration: underline;
 }
 
-/* Contact page links */
-body.page-contact a {
-  color: #03dac6;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-body.page-contact a:hover {
-  text-decoration: underline;
-}
-
 /* Footer */
 footer {
   width: 100%;
